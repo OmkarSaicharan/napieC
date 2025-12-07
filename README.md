@@ -1,1 +1,1 @@
-# https://omkarsaicharan.github.io/napieC/
+# https://omkarsaicharan.github.io/svipeC/
